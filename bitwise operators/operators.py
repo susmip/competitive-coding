@@ -22,3 +22,8 @@ print(binary[2:])
 #10110 2 bits 101 ->5
 #10110 2 bits left shift 1011000
 print(int('1011000',2)) #i,e 88
+
+#NOT
+
+#NOT IS -(A+1) OF A
+print(~(5))
